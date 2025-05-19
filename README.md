@@ -28,7 +28,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/workflow-automation-ai.git
+   git clone https://github.com/Dhivyalakshmi-M/Workflow_AI_Automation_system
    cd workflow-automation-ai
 Install dependencies:
 
