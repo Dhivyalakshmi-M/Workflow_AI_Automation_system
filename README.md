@@ -1,7 +1,5 @@
 # WorkFlow Automation AI Pro 🤖
 
-![App Screenshot](https://i.imgur.com/JbQvX9T.png)
-
 **WorkFlow Automation AI Pro** is an intelligent workforce management platform that automates leave requests and work assignments with WhatsApp integration for seamless team coordination.
 
 ## Features ✨
